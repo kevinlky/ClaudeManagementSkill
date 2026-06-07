@@ -164,6 +164,7 @@ Open any `SKILL.md` and use the instructions directly as a system prompt or refe
 | [spglobal-tear-sheet](02-finance-accounting/spglobal-tear-sheet/) | S&P Global | Company tear sheets |
 | [spglobal-funding-digest](02-finance-accounting/spglobal-funding-digest/) | S&P Global | Funding round digests |
 | [invoice-organizer](02-finance-accounting/invoice-organizer/) | Community | Invoice management |
+| [Three-Pillar Personal Finance](https://github.com/nontravis/personal-finance-whitepaper) | Community | A reasoning-lens skill that makes any AI advise through the Three-Pillar system (Income − Expenses = Freedom Fund; Cashflow, Investment, Savings; discipline over strategy) |
 
 </details>
 
