@@ -204,6 +204,7 @@ Open any `SKILL.md` and use the instructions directly as a system prompt or refe
 | [twitter-algorithm-optimizer](04-marketing/twitter-algorithm-optimizer/) | Community | X/Twitter optimization |
 | [canvas-design](04-marketing/canvas-design/) | Community | Beautiful visual art in PNG/PDF with design philosophy |
 | [theme-factory](04-marketing/theme-factory/) | Community | Professional font & color themes for artifacts and reports |
+| [NotFair](https://github.com/nowork-studio/NotFair) | Community | SEO, GEO, Google Ads, and Meta Ads skills connecting Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP |
 
 ### 05 — Sales
 
