@@ -470,3 +470,5 @@ Individual skills sourced from external repositories may carry their own license
   <br />
   <sub>If this collection helps your team, consider giving it a <strong>star</strong> — it helps others find it too.</sub>
 </p>
+
+- [Context Kit](https://github.com/JDDavenport/context-kit) — 4 PCA templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. MIT.
