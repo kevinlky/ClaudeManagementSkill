@@ -8,7 +8,7 @@
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge-flat2.svg" alt="Awesome" />
   </a>
-  <img src="https://img.shields.io/badge/Skills-166-blue?style=flat-square" alt="166 Skills"/>
+  <img src="https://img.shields.io/badge/Skills-167-blue?style=flat-square" alt="167 Skills"/>
   <img src="https://img.shields.io/badge/Roles-14-green?style=flat-square" alt="14 Categories"/>
   <img src="https://img.shields.io/badge/Claude-Code%20%7C%20Cowork%20%7C%20API-purple?style=flat-square" alt="Claude Platforms"/>
   <a href="https://makeapullrequest.com">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  166 production-ready skills across 14 categories &mdash; from executive strategy and investment banking to procurement and document processing.
+  167 production-ready skills across 14 categories &mdash; from executive strategy and investment banking to procurement and document processing.
   <br />
   Built for <a href="https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview">Claude Code</a>, <a href="https://claude.ai">Claude Cowork</a>, and any tool supporting the open <code>SKILL.md</code> format.
 </p>
@@ -47,7 +47,6 @@
   - [Procurement & Supply Chain](#12--procurement--supply-chain)
   - [Document Processing](#13--document-processing)
 - [Folder Structure](#folder-structure)
-- [Sources](#sources)
 - [Contributing](#contributing)
 - [Resources](#resources)
 - [License](#license)
@@ -313,6 +312,7 @@ Open any `SKILL.md` and use the instructions directly as a system prompt or refe
 | [data-exploration](10-data-analytics/data-exploration/) | Anthropic KWP | Exploratory data analysis |
 | [csv-data-summarizer](10-data-analytics/csv-data-summarizer/) | Community | Auto-analyze CSV files with insights & visualizations |
 | [postgres](10-data-analytics/postgres/) | Community | Safe read-only PostgreSQL queries with multi-connection support |
+| [xquik-x-data-analysis](10-data-analytics/xquik-x-data-analysis/) | Community | Analyze public X data with Xquik MCP or REST |
 
 ### 11 — Customer Success
 
@@ -386,7 +386,7 @@ awesome-claude-corporate-skills/
 ├── 09-product-management/            # 10 skills
 │   ├── brainstorming/SKILL.md        # NEW
 │   └── ...
-├── 10-data-analytics/                # 9 skills
+├── 10-data-analytics/                # 10 skills
 │   ├── csv-data-summarizer/SKILL.md  # NEW
 │   ├── postgres/SKILL.md             # NEW
 │   └── ...
