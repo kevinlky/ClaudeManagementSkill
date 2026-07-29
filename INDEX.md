@@ -1,6 +1,6 @@
 # Corporate Skills Collection for Claude
 
-> **166 skills** organized across **14 categories**
+> **167 skills** organized across **14 categories**
 > Sources: Anthropic Official, Knowledge Work Plugins, Financial Services Plugins, Community Skills, Custom-Built
 
 ---
@@ -194,7 +194,7 @@ Each subfolder represents a corporate role. Inside each role folder, you'll find
 | source-management | Anthropic KWP | Source tracking |
 | brainstorming | Community | Transform rough ideas into fully-formed designs |
 
-### 10 - Data & Analytics (9 skills)
+### 10 - Data & Analytics (10 skills)
 | Skill | Source | Description |
 |-------|--------|-------------|
 | data-validation | Anthropic KWP | Data quality checks |
@@ -206,6 +206,7 @@ Each subfolder represents a corporate role. Inside each role folder, you'll find
 | data-exploration | Anthropic KWP | Exploratory data analysis |
 | csv-data-summarizer | Community | Auto-analyze CSV files with insights & visualizations |
 | postgres | Community | Safe read-only PostgreSQL queries with multi-connection support |
+| xquik-x-data-analysis | Community | Analyze public X data with Xquik MCP or REST |
 
 ### 11 - Customer Success (10 skills)
 | Skill | Source | Description |
