@@ -178,6 +178,7 @@ Each subfolder represents a corporate role. Inside each role folder, you'll find
 | developer-growth-analysis | Community | Dev metrics |
 | langsmith-fetch | Community | LangSmith integration |
 | software-architecture | Community | Clean Architecture, SOLID, and design patterns |
+| swarm-cache | Community | Semantic LLM cache + P2P swarm sharing (OpenClaw skill) |
 | test-driven-development | Community | TDD methodology for features and bugfixes |
 
 ### 09 - Product Management (10 skills)

@@ -280,6 +280,7 @@ Open any `SKILL.md` and use the instructions directly as a system prompt or refe
 | [langsmith-fetch](08-it-engineering/langsmith-fetch/) | Community | LangSmith integration |
 | [software-architecture](08-it-engineering/software-architecture/) | Community | Clean Architecture, SOLID, and design patterns |
 | [test-driven-development](08-it-engineering/test-driven-development/) | Community | TDD methodology for features and bugfixes |
+| [swarm-cache](08-it-engineering/swarm-cache/) | Community | Semantic LLM cache + P2P swarm sharing (OpenClaw skill) |
 
 ### 09 — Product Management
 
