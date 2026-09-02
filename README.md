@@ -193,6 +193,7 @@ Open any `SKILL.md` and use the instructions directly as a system prompt or refe
 | [seo-content-optimizer](04-marketing/seo-content-optimizer/) | Custom | SEO optimization workflows |
 | [email-marketing](04-marketing/email-marketing/) | Custom | Email campaigns & sequences |
 | [social-media-strategy](04-marketing/social-media-strategy/) | Custom | Multi-platform social strategy |
+| [bulkpublish-social-publishing](04-marketing/bulkpublish-social-publishing/) | Community | Approved social publishing through BulkPublish API and MCP |
 | [market-research](04-marketing/market-research/) | Custom | Market sizing, personas, trends |
 | [brand-guidelines](04-marketing/brand-guidelines/) | Anthropic Skills | Brand identity standards |
 | [brand-voice-enforcement](04-marketing/brand-voice-enforcement/) | Anthropic KWP | Voice consistency |
